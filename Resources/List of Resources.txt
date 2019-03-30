@@ -1,3 +1,7 @@
+List of data sources:
+
+
+
 https://www.kaggle.com/mylesoneill/game-of-thrones#character-predictions.csv
 
 https://anapioficeandfire.com/
