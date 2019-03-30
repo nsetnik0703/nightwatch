@@ -13,5 +13,13 @@ collaberators :
  
  
  current objectives(member):
-  -Nick Setnik
+  -Nick
     -GoT API Jupyter
+  -Joseph
+    -
+  Kelly
+    -
+  Omari
+    -
+  Priya
+    -
