@@ -1,0 +1,31 @@
+Group #4 - NightWatch
+
+collaberators :
+  - Nick Setnik
+  - Joseph Villavicencio
+  - Kelly Kwon
+  - Omari B
+  - Priya
+  
+ current Objectives(team):
+  - Analyis of Game of Thrones/baby names correlation through public record baby name data(SSN) and Game of Thrones(GoTAPI).
+  
+ data sources:
+  - SSN Baby names (https://www.ssa.gov/oact/babynames/popularity_increase.html)
+  - GoT API (https://anapioficeandfire.com/)
+  - 
+
+Hypothesis:
+  - Character names from Game of Thrones increase the frequency of babies being named after them.
+  
+  Research questions to answer:
+  1.) Has the HBO show "Game of Thrones" had a significant impact on Popular baby names in the United States?
+  2.) How does this compare to other pop culture elements and their affects on baby names? Is GoT more effective? less effective?
+  
+  
+Breakdown of Tasks:
+  1.) Data collection
+  2.) Data cleaning
+  3.) Data Manipulation
+  4.) Visualization
+  5.) Powerpoint Presentation
