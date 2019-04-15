@@ -19,5 +19,5 @@ collaberators :
  3.) This increase of frequency is stronger than the affect from other popular TV series within the same time frame.
  
 
-Link to Observations List Google Doc:
-https://docs.google.com/document/d/1DIaf7ZBlSBbnjjo2jPHAgeuuAkFczQ9j5OVKEoaCQj8/edit?usp=sharing
+Link to final PREZI presentation:
+https://prezi.com/view/M1T99BpHMzx3crXV7lWi/
